@@ -12,5 +12,5 @@ meu nome é Pedro Henrique
 
   @prd__019
 
-!.[].( https://media1.tenor.com/m/SfIBJjbHH9UAAAAd/dog-smile-shyboos.gif)
+![]( https://media1.tenor.com/m/SfIBJjbHH9UAAAAd/dog-smile-shyboos.gif)
   
